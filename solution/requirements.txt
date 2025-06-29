@@ -1,0 +1,25 @@
+# requires python=3.7
+
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch==1.10.0+cu113 
+torchaudio==0.10.0+cu113 
+torchvision==0.11.1+cu113 
+
+openmim
+mmengine==0.10.7
+./mmcv-2.0.0-cp37-cp37m-manylinux1_x86_64.whl
+mmdet==3.3.0
+
+numpy==1.21.4
+opencv-python==4.11.0.86
+pillow==8.4.0
+matplotlib
+seaborn
+tqdm
+pytorch-lightning
+seedir
+emoji
+ipykernel
+
+-e ../mmsegmentation
+albumentations==1.1.0
