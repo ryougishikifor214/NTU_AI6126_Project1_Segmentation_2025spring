@@ -1,7 +1,6 @@
 data/
 work_dirs/
 env/
-mmsegmentation/
 
 *.zip
 
