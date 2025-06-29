@@ -1,0 +1,4 @@
+[submodule "mmsegmentation"]
+	path = mmsegmentation
+	url = git@github.com:ryougishikifor214/mmsegmentation.git
+	branch = 6126_p1_112
